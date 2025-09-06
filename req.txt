@@ -1,0 +1,11 @@
+pandas
+PyPDF2 
+pdfminer.six 
+python-docx
+spacy 
+nltk
+spacy -> en_core_web_sm
+scikit-learn
+matplotlib 
+seaborn 
+plotly
